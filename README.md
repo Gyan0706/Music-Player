@@ -3,6 +3,9 @@ This Music Player is a simple application that allows users to play their favori
 # Screenshots 📸 
 Here's a sneak peek on how your music player looks like!
 ![1](https://github.com/user-attachments/assets/8de12d15-d39f-49da-a222-e3fe1f41aa3e)
+<img width="952" alt="2" src="https://github.com/user-attachments/assets/69526f82-d8b9-4e8f-85af-df1d1b28c659">
+![3](https://github.com/user-attachments/assets/ac296f6f-24ba-4c2c-b2a9-4f0008677246)
+
 
 # Demo Video 🎥
 https://github.com/user-attachments/assets/666199bd-5e67-4f16-88e3-0fdb8a526429
@@ -38,7 +41,7 @@ Let users control the playback speed (0.5x, 1x, 1.5x, 2x).
 Display synchronized lyrics in real-time or allow users to import lyrics files (.lrc).
 
 # Project Structure 📂
-Music-Player
+Music-Player/
 │
 ├── index.html   # HTML structure
 ├── style.css    # Styling for the page
